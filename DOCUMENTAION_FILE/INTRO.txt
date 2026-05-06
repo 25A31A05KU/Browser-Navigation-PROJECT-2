@@ -1,5 +1,0 @@
-📘 Introduction – Stack-Based Browser Navigation
-A web browser allows users to visit different web pages and navigate between them using Back and Forward buttons. Internally, this navigation is managed using a systematic approach to store and retrieve previously visited pages.
-This project focuses on implementing browser navigation using the Stack data structure, which follows the Last-In-First-Out (LIFO) principle. Two stacks are used: one for back navigation and another for forward navigation. These stacks help simulate how a real browser maintains history and allows movement between pages efficiently.
-When a user opens a new page, the current page is stored in the back stack, and the forward stack is cleared. When the user clicks the Back button, the current page is moved to the forward stack and the most recent page from the back stack becomes the current page. Similarly, the Forward button reverses this process.
-This project helps in understanding the practical application of stacks in real-world systems and strengthens the concept of data structures through a browser simulation model.
