@@ -1,0 +1,7 @@
+Browser - Navigation Flowchart
+
+Start → Open Browser → Enter URL / Click Link → Check Cache? → Yes → Load from Cache → Display Page → End
+                                                       ↓
+                                                      No
+                                                       ↓
+Send HTTP Request → DNS Lookup → Connect to Server → Server Processes Request → Send HTTP Response → Render Page → Display Page → End

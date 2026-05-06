@@ -1,0 +1,42 @@
+ 🚀 Future Work – Stack-Based Browser Navigation
+
+This project can be further improved and extended in several ways to make it more realistic and feature-rich like a modern web browser.
+
+ 1. 🌐 Tab Management
+
+Add support for multiple tabs using stacks or lists so that each tab maintains its own browsing history independently.
+
+ 2. 🔖 Bookmarks Feature
+
+Allow users to save frequently visited pages as bookmarks for quick access without using navigation history.
+
+ 3. 🧾 History Viewer
+
+Implement a feature to display full browsing history (both Back and Forward stacks) in a structured list format.
+
+
+ 4. 🔍 Search Integration
+
+Add a search bar that supports direct search queries (like Google search) instead of only URL-based navigation.
+
+ 5. 💾 Persistent Storage
+
+Store browsing history in files or databases so that data is not lost when the program is closed.
+
+ 6. 🖥️ GUI Development
+
+Upgrade the console-based application into a graphical user interface using frameworks like:
+
+* C++ Qt
+* JavaFX
+* HTML/CSS/JavaScript (web version)
+
+ 7. ⚡ Performance Improvements
+
+Optimize stack operations and add memory management techniques for handling large browsing histories efficiently.
+
+---
+
+ 🧠 Summary
+
+These enhancements would transform the current stack-based simulation into a more advanced and realistic browser system, bridging the gap between academic learning and real-world applications.
